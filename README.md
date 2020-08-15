@@ -1,2 +1,2 @@
 hi
-![Deep Parekh](/img/myImagev2-min.jpg)
+![Deep Parekh](src\components\img\myImagev2-min.png)
