@@ -1,2 +1,2 @@
 hi
-![My-intro](my-intro-img.jpg)
+![My-intro](/img/my-intro-img.jpg)
