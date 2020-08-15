@@ -1,3 +1,3 @@
 hi
-![My-intro](Deep310/Deep310/blob/master/my-intro-img.png)
+![My-intro](https://github.com/Deep310/Deep310/blob/master/my-intro-img.png?raw=true)
 
