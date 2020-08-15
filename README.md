@@ -1,2 +1,3 @@
 hi
-![My-intro](Deep310/Deep310/blob/master/my-intro-img.png)
+![My-intro](Deep310/my-personal-portfolio/blob/master/src/Components/img/my-img.png)
+
