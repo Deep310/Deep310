@@ -1,3 +1,2 @@
 hi
-![My-intro](my-intro-img.png)
-
+![My-intro](my-intro-img.jpg)
