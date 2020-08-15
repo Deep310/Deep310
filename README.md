@@ -1,2 +1,2 @@
 hi
-![Alt text](relative/myImagev2-min.jpg?raw=true "Title")
+![Deep Parekh](/img/myImagev2-min.jpg)
