@@ -4,7 +4,7 @@ Hey :wave:,
 
 I am a sophomore at Rutgers University, USA studying Computer Science. I love exploring new topics about web such as web performance, web development, and PWAs. 
 
-You can learn more about me on deepparekh.me.
+You can learn more about me on [My website](deepparekh.me).
 
 ## :mailbox_with_mail: Get in Touch!
 
