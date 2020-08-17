@@ -24,8 +24,8 @@ You can learn more about me on deepparekh.me.
 1. Covid-19-tracker
     * Displays the current data about active cases, recoveries, and deaths of more than 250 countries with a live map and a graph. Built using React, Material-ui and hosted with Firebase. 
     * Check it out here :point_right: https://github.com/Deep310/covid-19-tracker
-2. Breaking-Bad-Cast
-    * Shows a list of all the characters of Breaking Bad show on Netflix and also some info about them.
+2. Todo app
+    * A simple to-do application to organize your tasks to make everything much more manageable and help you stay focused!  
     * Check it out here :point_right: https://github.com/Deep310/breaking-bad-cast
 3. MineSweeper
     * Built a fun and relaxing game to play during break using vanillaJS. 
